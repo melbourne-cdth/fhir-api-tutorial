@@ -1,13 +1,12 @@
 name: uw_fhir
 channels:
-  - default
+  - conda-forge
 dependencies:
   - python=3.8
   - pandas
   - pip
   - matplotlib
   - python-dateutil
-  - hvplot
   - requests
   - seaborn
   - pip:
