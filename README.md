@@ -1,6 +1,6 @@
 # FHIR API Tutorial
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melbourne-cdth/fhir-api-tutorial/HEAD?filepath=fhir-calculator-notebook.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/melbourne-cdth/fhir-api-tutorial/HEAD)
 
 ## Prerequisites
 **Install these on your system before the tutorials!**
