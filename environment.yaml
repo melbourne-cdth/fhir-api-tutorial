@@ -1,6 +1,6 @@
 name: uw_fhir
 channels:
-  - defaults
+  - default
 dependencies:
   - python=3.8
   - pandas
