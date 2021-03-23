@@ -1,0 +1,13 @@
+name: uw_fhir
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - pandas
+  - pip
+  - matplotlib
+  - python-dateutil
+  - hvplot
+  - requests
+  - pip:
+    - git+https://github.com/smart-on-fhir/client-py.git
